@@ -1,4 +1,4 @@
-## Welcome to Haopeng Ling's Home Page
+## Welcome to Haopeng Ling's Home Page.
 `<button onclick=myfunction()>click me</button>`
 
 
